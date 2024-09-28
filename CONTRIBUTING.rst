@@ -14,6 +14,7 @@ Use ``tox``
 To start developing, the recommended way is to use ``tox``. This way, your development environment is automatically
 prepared by ``tox``, including virtual environment setup, dependency management, installing `pardata` in development mode.
 
+Okey I am using tox 
 1. Install ``tox``:
 
    .. code-block:: console
